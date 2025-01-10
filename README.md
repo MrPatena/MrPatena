@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrPatena
 - 👀 I’m interested in computer hardware/software, engineering feats, gaming, PC building, How stuff just works, and much more...
-- 🌱 I’m currently learning full-stack development. On my HTML phase.
+- 🌱 I’m currently learning full-stack development. On my CSS phase.
 - ⚡ Fun fact: I'm human
 
 <!---
